@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://203.130.28.214:3374/DownloadFiles/Delegia/image.57x57.png</string>
+					<string>https://smakazmidd.github.io/image.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://203.130.28.214:3374/DownloadFiles/Delegia/image.512x512.jpg</string>
+					<string>https://smakazmidd.github.io/image.512x512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
